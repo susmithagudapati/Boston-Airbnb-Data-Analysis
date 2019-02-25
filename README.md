@@ -7,6 +7,7 @@
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
+<<<<<<< HEAD
 ### Installation <a name="installation"></a>
 For running this project, the most important library is Python version of Anaconda Distribution. It installs all necessary packages for analysis and building models. 
  
@@ -37,3 +38,8 @@ There is a notebook available here to showcase work related to the above questio
 ## Results<a name="results"></a>
 
 The main observations of the code are published [here](https://medium.com/@susmitha.gudapati/a-data-driven-story-of-airbnb-in-boston-7a27c5267d38).
+=======
+A data driven story of Airbnb in Boston is published here - https://medium.com/@susmitha.gudapati/a-data-driven-story-of-airbnb-in-boston-7a27c5267d38
+
+Github repo - https://github.com/susmithagudapati/Boston-Airbnb-Data-Analysis.
+>>>>>>> 040f17b9059c387e41e3a131715474284b297f7c
